@@ -1,2 +1,2 @@
 # Special-Web-Project
-This is a project to use HTML to create a webpage.
+This is a fun side project that I completed, which utilized HTML to create a webpage.
