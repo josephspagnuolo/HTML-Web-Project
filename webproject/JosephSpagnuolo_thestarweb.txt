@@ -1,0 +1,214 @@
+<html>
+<head>
+<title> PS4 Success: After 3 years, 40 million consoles sold | The Toronto Star</title>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" alink="#0000FF" vlink="#0000FF" topmargin="100"><!--background="images/starheader.gif"-->
+<a name="anchor1"></a>
+<hr color="#0066a4" width="100%" align="center" size="30">
+
+<div align="center">
+
+<table width="1000" border="0">
+<tr><td colspan="2"><img src="images/starheader.gif" alt="thestar.com" width="1000" height="100" title="thestar.com"></td></tr>
+<tr valign="top" align="left"><td width="130" rowspan="4" align="right"><img src="images/starmenu.gif" alt="thestar.com | Menu" width="130" height="551">
+</td><td width="860" style="padding-left:20; padding-top:0; padding-bottom:0"><font face="Tahoma, Geneva, sans-serif" size="7" color="#333333">
+<b>PS4&trade; Lasting Success: After 6 years, 100 million consoles sold</b></font></p></td></tr>
+<tr valign="top"><td style="padding-left:20; padding-bottom:20; line-height:1.5; padding-top:0">
+<font face="Georgia, Times New Roman, Times, serif" size="5" color="#333333">Since launch in 2013, the Sony PlayStation&reg; 
+4 has sold over 100 million consoles, which has since doubled the sales of Microsoft's Xbox One.</font></td></tr>
+<tr valign="top"><td style="padding-left:20"><img src="images/psvr.jpg" width="840"></td></tr>
+<tr valign="top"><td style="padding-left:20;padding-bottom:17; line-height:1.25; padding-top:7"><font face="trebuchet ms" size="3" color="#333333">The new 
+PlayStation&reg; VR, Sony's virtual reality headset, was released three years ago on the 13th of October and is fully functional with the PS4 console.</font></td></tr>
+</table>
+
+
+<table width="1000" cellpadding="40" bgcolor="#EFEFEF">
+<tr valign="top" align="left"><td width="1000" align="left" valign="top" style="line-height:1.6;">
+<font size="4" face="Trebuchet MS, Arial, Helvetica, sans-serif">By <b><font size="4" color="#004080">JOSEPH SPAGNUOLO</font>
+</b> Tech Expert</font>&nbsp;&nbsp;<a href="https://twitter.com/TorontoStar?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" 
+target="new"><img src="images/twitter.png" alt="Twitter" width="20" height="20"></a>&nbsp;
+<a href="mailto:joseph.spagnuolo2000@yahoo.ca" target="new"><img src="images/mail.png" alt="Email" width="22" height="22"></a><br>
+<font size="4" face="Trebuchet MS, Arial, Helvetica, sans-serif">Mon., Oct. 18, 2019</font></td></tr>
+<tr valign="top"><td style="padding-top:0; line-height:1.6;"><p><font face="georgia" size="5" color="333333">After the tremendous sales of the PS2 and PS3
+ home gaming consoles, <a href="http://www.sony.ca/en" target="new">Sony</a> was determined to top the success of their prior products with its next console. 
+Development of this eighth generation console began in 2008, according to <a href="https://twitter.com/cerny?lang=en" target="new">Mark Cerny</a>, the PS4's 
+system architect.</font></p></td></tr>
+<tr valign="top"><td style="padding-top:0; line-height:1.6;"><p><font face="georgia" size="5" color="333333">
+Leading up to release, Sony worked with other companies to improve the PS4.
+At a Gamescom event in Germany, Sony announced the launch date of November 15, 2013 for the PS4. Because of its improvements from the PS3, the PS4 had great
+ sales, and reached 40 million consoles sold in 2016.</font></p>
+
+</td></tr>
+
+<tr><td style="padding-top:0; line-height:1.6;">
+<img src="images/vrheadset.jpg" alt="PlayStation VR" width="280" height="276" align="right">
+<p><font face="georgia" size="5" color="333333">The Dualshock 4 controller was improved from its predecessor through feedback on how to design it more
+ efficiently. Sony recently launched an accessory called the PS VR on October 13, 2016 to make the PS4 experience more inclusive.
+The <a href="https://www.playstation.com/en-ca/explore/playstation-vr/" target="new">PlayStation VR</a> is a virtual reality headset from Sony that is 
+compatible with the PS4. With a 100 degree field of view and 1080p resolution, it revolutionizes how the PS4 is used.</font></p>
+</td></tr>
+<tr><td style="line-height:1.6; padding-top:0;">
+<p><font face="georgia" size="5" color="333333">Sony additionally created Remote Play. This allows the consumer to connect their Dualshock 4 controller 
+to their <a href="http://www.sonymobile.com/ca-en/" target="new">Sony Xperia</a> and play PS4 remotely on their phone.</font></p>
+</td></tr>
+
+<tr><td style="padding-top:0;" align="center"><iframe width="700" height="415" src="https://www.youtube.com/embed/5b4cwofOTII" frameborder="0" 
+allowfullscreen></iframe>
+</td></tr>
+
+<tr><td style="padding-top:0; line-height:1.6;">
+
+<table>
+<tr><td>
+
+<table><tr><td colspan="3" align="center"><h2><font face="trebuchet ms" size="6">TOP 3 PlayStation&reg; 4 GAMES!</font></h2></td></tr>
+<tr><td style="padding-right:15; padding-left:0;"><a href="https://www.callofduty.com/ca/en/blackops3 target="2"><img src="images/bo3.jpg" alt="Black Ops 3"
+ width="200" height="249"></a></td>
+<td style="padding-right:15; padding-left:15;"><a href="https://www.easports.com/fifa" target="new"><img src="images/fifa17.jpeg" alt="Fifa 17" width="200"
+ height="249"></a></td>
+<td style="padding-left:15; padding-right:15;"><a href="https://www.destinythegame.com/game" target="new"><img src="images/destiny.jpeg" alt="Destiny"
+ width="200" height="249"></a></td></tr>
+<tr align="center"><td><font face="trebuchet ms" size="4"><b>Black Ops 3</b></font></td><td><font face="trebuchet ms" size="4"><b>FIFA 17</b></font></td>
+<td><font face="trebuchet ms" size="4"><b>Destiny</b></font></td></tr>
+<tr align="center" valign="top"><td width="200" style="padding-right:15; padding-left:0;"><font face="trebuchet ms">The most popular first-person shooter 
+game. Choose Campaign, Zombies, or Multiplayer modes, and fight!</font></td>
+<td width="200" style="padding-right:15; padding-left:15;"><font face="trebuchet ms">Choose your favourite soccer team, or build your own team. Play online,
+ score goals, and win championships.</font></td>
+<td width="200" style="padding-left:15; padding-right:15;"><font face="trebuchet ms">Jump 700 years into the future, and guard the last city on this Earth.
+ Destroy the enemies to regain what was lost!</font></td></tr>
+</table>
+
+</td><td valign="top" width="255">
+
+<table bgcolor="c9c9c9" width="220">
+<tr align="center" valign="top"><td style="padding-top:15;"><font face="trebuchet ms" size="4"><b>Exclusive Games!</b></font></td></tr>
+<tr><td style="padding-top:15; line-height:1.6;"><ul><li><font face="trebuchet ms" size="3">MLB 2015</li><li>Unchartered 4</li><li>The Last of Us 
+Remastered</li><li>DriveClub</font></li></ul><a href="http://www.unchartedthegame.com/en-us/" target="new"><img src="images/uncharted4.png"
+ alt="Uncharted 4" width="175" height="217" align="center" style="margin:20; margin-top:5;"></a></td></tr>
+</table>
+
+</td></tr></table>
+
+</td></tr>
+<tr><td style="line-height:1.6; padding-top:0; padding-left:80; padding-bottom:10;">
+
+<h3><font face="georgia">Related Links:&nbsp;<a href="http://www.gamesradar.com/best-ps4-games/" target="new">The 25 Best Games for the
+ PlayStation 4!</a></font></h3>
+<h3><font face="georgia">Related Links:&nbsp;<a href="https://www.amazon.com/PlayStation-4-Hardware-Accessories/b?ie=UTF8&node=6427815011"
+ target="new">PlayStation 4 Accessories from Amazon.ca</a></font></h3>
+
+</td></tr>
+<tr><td style="line-height:1.6; padding-top:0; padding-bottom:0;">
+<p><font face="georgia" size="5" color="333333">Although the PS4 is not backwards compatible with PS3 discs, Sony added a feature called PlayStation Now 
+to the PS4, which is a library of old games that the gamer can choose to play. It essentially allows players to play games from other consoles on the PS4.
+ Different from the PS3 which used a microprocessor, the PS4 used a Accelerated Proccessing Unit (APU). </font></p>
+
+</td></tr>
+
+<tr><td>
+<table width="100%" border="4" bordercolor="0066a4" style="border-collapse:collapse; padding-top:0;">
+<tr bgcolor="c9c9c9"><td></td><td><font face="trebuchet ms" size="6" style="padding-top:0;">PS3</font></td><td><font face="trebuchet ms" size="6">PS4</font>
+</td><td><font face="trebuchet ms" size="6">PS4 Slim</font></td><td><font face="trebuchet ms" size="6">PS4 Pro</font></td></tr>
+<tr><td align="right" style="padding-right:20;">CPU</td><td>3.2 GHz Cell Broadband</td><td>8-core AMD</td><td>8-core AMD</td><td>8-core AMD</td></tr>
+<tr><td align="right" style="padding-right:20;">GPU</td><td>1.8 T-FLOPS</td><td>1.84 T-FLOPS</td><td>1.84 T-FLOPS</td><td>4.2 T-FLOPS</td></tr>
+<tr><td align="right" style="padding-right:20;">Memory</td><td>256MB GDDR3 VRAM</td><td>8GB GDDR5 RAM</td><td>8GB GDDR5 RAM</td><td>8GB GDDR5 RAM</td></tr>
+<tr><td align="right" style="padding-right:20;">4k Streaming</td><td>No</td><td>No</td><td>No</td><td>Yes</td></tr>
+<tr><td align="right" style="padding-right:20;">Power Consumption</td><td>200W</td><td>250W</td><td>165W</td><td>310W</td></tr>
+</table>
+</td></tr>
+
+<tr><td style="padding-top:0; line-height:1.6;">
+<img align="left" src="images/ps4vxboxone.jpg" alt="PS4 vs Xbox One" width="380" height="219" style="margin-right:20;">
+<p><font face="georgia" size="5" color="333333">Many critics have debated over which console is better: the PlayStation 4 or the Xbox One? To most, this is
+ a matter of preference. The PS4 is smaller than the Xbox One. Additionally, certain games are exclusive to each console. For example, Gears of War 4,
+ Halo 5: Guardians, and Forza Horizon 2 can only be played on the Xbox One, whereas Uncharted 4, The Last of Us Remastered, and Driveclub can only be played
+ on the PS4. Currently, the PS4 supports virtual reality, and the Xbox One does not. Both the consoles, however, have very attractive designs, and are both
+ worth your money.</font></p>
+</td></tr>
+
+<tr><td align="center"><font face="georgia">Join the fun with the <a href="http://community.us.playstation.com/" target="new">PlayStation Community!</a>
+</font>
+
+</table>
+
+
+
+
+
+
+
+
+
+
+<table><tr><td rowspan="2"><img src="images/journalistpicture.jpg" width="100" height="129" style="margin:10; border:3px solid grey;" alt="Joseph Spagnuolo"
+ align="center"></td>
+<td valign="bottom"><font face="trebuchet ms" size="4"><b>Joseph SPAGNUOLO</b></font></td></tr>
+<tr><td valign="top" style="padding-top:5;"><font face="trebuchet ms">3rd Year Student<br>Software Engineering at York University</font></td></tr></table>
+
+<a href="#anchor1"><font face="Trebuchet MS, Arial, Helvetica, sans-serif"><p>Back to Top</p></font></a>
+<hr color="#0066a4" width="100%" align="center" size="30">
+
+</div>
+
+<div style="background-color:666666" align="center" width="100%">
+
+<table width="1000" style="padding-left:40;">
+<tr valign="top"><td style="padding-top:20; line-height:1.6;" width="250"><font face="trebuchet ms" color="white"><b>
+<a href="https://www.thestar.com/?redirect=true" target="new" style="color: #ffffff; text-decoration: none;">thestar.com</a></b>
+<br><br><br>Feedback
+<br>Site Map
+<br>Newsletters
+<br>Insurance Hotline
+<br>New in Homes
+<br>Star Store
+<br>Corrections
+<br>Behavioural Targeting
+<br>Today's News
+<br>Flyers
+<br>CanadaStays
+<br>Contests</font></td>
+<td style="padding-top:20; line-height:1.6; padding-bottom:8;" align="left" width="250"><font face="trebuchet ms" color="white"><b>Toronto Star <br>
+Newspaper Ltd.</b>
+<br><br>About
+<br>Atkinson Principles
+<br>Statement of Principles
+<br>Get Home Delivery
+<br>My Subscription
+<br>Contact Us
+<br>Contact Webmaster
+<br>FAQ
+<br>News Releases
+<br>Star Internships
+<br>Careers @ the Star
+<br>Star Advisers
+<br>Star ePaper
+<br>Star Touch
+<br>Reprint and License</font></td>
+<td style="padding-top:20; line-height:1.6;" width="250"><font face="trebuchet ms" color="white"><b>Advertising</b>
+<br><br><br>Advertise with Us
+<br>Advertising Terms
+<br>Special Features</td>
+<td style="padding-top:20; line-height:1.6;" width="250"><font face="trebuchet ms" color="white"><b>Initiatives</b>
+<br><br><br>Santa Claus Fund
+<br>Fresh Air Fund
+<br>Speakers Bureau
+<br>Classroom Connection
+<br>Toronto Star Archives
+<br>Report on Community Giving</font></td></tr>
+</table>
+<hr color="a3a3a3" width="100%" size="2">
+<table width="1000">
+<tr valign="bottom"><td style="padding-bottom:28; padding-top:12; "><font color="ededed" face="trebuchet ms" size="2">&copy; Copyright Toronto Star
+ Newspapers Ltd. 1996-2016</font></td>
+<td></td><td style="padding-bottom:28; padding-top:12; " align="right"><a href="https://www.thestar.com/about/privacy.html">
+<img src="images/privacypolicy.png" alt="Privacy Policy" width="80" height="13"></a></td>
+<td style="padding-bottom:28; padding-top:12; " valign="middle" align="right"><a href="https://www.thestar.com/about/terms.html">
+<img src="images/termsconditions.gif" alt="Terms and Conditions" width="97" height="10"></a></td></tr>
+</table>
+
+</div>
+
+
+</body>
+</html>
