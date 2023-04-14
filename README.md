@@ -2,7 +2,7 @@
 This is a fun side project that I completed, which I utilized HTML to create a webpage.
 The webpage was designed to mimic a Toronto Star online news article.
 
-Screenshots are included below:
+I have included screenshots below:
 
 ![image](https://user-images.githubusercontent.com/46382058/212187749-bcaffed6-0fa8-4867-8b32-931f14029f84.png)
 
