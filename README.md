@@ -1,4 +1,4 @@
-# HTML Web Page Project
+# Designing an HTML Web Page 
 This is a fun side project that I completed, which I utilized HTML to create a webpage.
 The webpage was designed to mimic a Toronto Star online news article.
 
