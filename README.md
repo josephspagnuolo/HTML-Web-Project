@@ -1,6 +1,5 @@
 # Designing an HTML Web Page 
-This is a fun side project that I completed, which I utilized HTML to create a webpage.
-The webpage was designed to mimic a Toronto Star online news article.
+This is a project that I completed which I utilized pure HTML, without any CSS, to create a webpage designed to mimic a Toronto Star online news article.
 
 I have included screenshots below:
 
